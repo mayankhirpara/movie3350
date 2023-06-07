@@ -1,0 +1,155 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "movie": [
+    {
+      "tital": "kgf2",
+      "img": "kgf.jpeg",
+      "select": "4D",
+      "select1": "Gujrati",
+      "select2": "Drama/",
+      "duretion": "3h 40m",
+      "certificate": "U.A",
+      "date": "20/05/2022",
+      "reting": "9.9",
+      "schedule": "in cinema",
+      "about": "this ",
+      "Hero": "ritik_roshan",
+      "heroine": [],
+      "director": "",
+      "genre": [
+        "Action/",
+        "Drama/"
+      ],
+      "language": [
+        "Hindi",
+        "English/"
+      ],
+      "mode": [
+        "2D/",
+        "3D/",
+        "4D/"
+      ],
+      "id": 1
+    },
+    {
+      "tital": "mayank",
+      "img": "bholaa.jpg",
+      "select": "3D/",
+      "select1": "English/",
+      "select2": "Drama/",
+      "duretion": "",
+      "certificate": "",
+      "date": "",
+      "reting": "",
+      "schedule": "",
+      "about": "",
+      "Hero": [],
+      "heroine": [],
+      "director": "",
+      "genre": [
+        "Drama/"
+      ],
+      "language": [
+        "English/"
+      ],
+      "mode": [
+        "2D/",
+        "3D/"
+      ],
+      "id": 2
+    },
+    {
+      "tital": "",
+      "img": "dasara.avif",
+      "select": [],
+      "select1": [],
+      "select2": [],
+      "duretion": "",
+      "certificate": "",
+      "date": "",
+      "reting": "",
+      "schedule": "",
+      "about": "",
+      "Hero": [],
+      "heroine": [],
+      "director": "",
+      "genre": [],
+      "language": [],
+      "mode": [],
+      "id": 4
+    },
+    {
+      "tital": "mayank",
+      "img": "avengers-2.jpg",
+      "select": [],
+      "select1": [],
+      "select2": [],
+      "duretion": "",
+      "certificate": "",
+      "date": "",
+      "reting": "",
+      "schedule": "",
+      "about": "",
+      "Hero": [],
+      "heroine": [],
+      "director": "",
+      "genre": [],
+      "language": [],
+      "mode": [],
+      "id": 5
+    },
+    {
+      "tital": "",
+      "img": "avengers-2.jpg",
+      "select": [],
+      "select1": [],
+      "select2": [],
+      "duretion": "",
+      "certificate": "",
+      "date": "",
+      "reting": "",
+      "schedule": "",
+      "about": "",
+      "Hero": [],
+      "heroine": [],
+      "director": "",
+      "genre": [],
+      "language": [],
+      "mode": [],
+      "id": 6
+    },
+    {
+      "tital": "",
+      "img": "bin.webp",
+      "select": [],
+      "select1": [],
+      "select2": [],
+      "duretion": "",
+      "certificate": "",
+      "date": "",
+      "reting": "",
+      "schedule": "",
+      "about": "",
+      "Hero": [],
+      "heroine": [],
+      "director": "",
+      "genre": [],
+      "language": [],
+      "mode": [],
+      "id": 7
+    }
+  ]
+}
